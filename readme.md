@@ -1,130 +1,48 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Trilha Desenvolvedor Web Full Stack - 120 dias</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# Copilot Prompts 🎯
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="#"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico%20a%20Intermediario&color=E94D5F&labelColor=202024" alt="Nivel"></a>
-</p>
+Este repositório reúne uma coleção de **prompts otimizados para o Microsoft Copilot**, organizados para facilitar o uso em diferentes contextos de produtividade, aprendizado e criatividade.
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 📌 Objetivo
+O projeto tem como finalidade servir como um **portfólio de prompts**, demonstrando como o Copilot pode ser utilizado para:
+- Aumentar a produtividade em tarefas do dia a dia
+- Apoiar estudos e pesquisas
+- Criar conteúdos criativos e estruturados
+- Explorar diferentes estilos de interação com IA
 
-<br/>
-<br/>
+## 📂 Estrutura do Repositório
+- `prompts/` → Coleção de prompts categorizados
+- `examples/` → Exemplos de uso prático
+- `docs/` → Documentação e guias de referência
 
-## 💻 Sobre o Projeto
+## 🚀 Como Usar
+1. Navegue até a pasta `prompts/`.
+2. Copie o prompt desejado.
+3. Cole diretamente no Copilot para experimentar.
+4. Ajuste conforme necessário para seu contexto.
 
-Nesta trilha vamos construir uma aplicação **Full Stack** completa, responsiva e moderna, utilizando **Python, JavaScript, React e SQL**.  
-O projeto final será uma **plataforma de tarefas** para micro, pequenas e médias empresas, contendo as seguintes seções:
+## 🛠 Tecnologias
+- **Microsoft Copilot** como motor de IA
+- Markdown para documentação
+- GitHub para versionamento e colaboração
 
-- Header  
-- Navigation  
-- Home  
-- Sobre  
-- Serviços  
-- Depoimentos  
-- Contato  
-- Footer  
+## 📖 Exemplos de Uso
+- 📊 **Produtividade**: geração de relatórios, resumos e listas de tarefas
+- 🎨 **Criatividade**: ideias para design, escrita e storytelling
+- 📚 **Educação**: quizzes, flashcards e explicações detalhadas
+- 💼 **Profissional**: emails, apresentações e propostas
 
-Além disso, o backend será desenvolvido em **Python (Flask/Django)** com integração a banco de dados **PostgreSQL/MongoDB**, e todo o código será versionado e documentado no **GitHub**.
+## 🤝 Contribuições
+Contribuições são bem-vindas!  
+Para colaborar:
+1. Faça um fork do repositório
+2. Crie uma branch (`git checkout -b minha-contribuicao`)
+3. Adicione seus prompts ou melhorias
+4. Abra um Pull Request
+
+## 📜 Licença
+Este projeto está sob a licença MIT.  
+Sinta-se livre para usar, modificar e compartilhar.
 
 ---
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
-
-Antes de ingressar neste conteúdo, é recomendado possuir conhecimento prévio em:
-
-- Lógica de programação | Básico  
-- HTML e CSS | Básico  
-- JavaScript | Básico  
-- Git e GitHub | Básico  
-
----
-
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
-
-- **Frontend**
-  - HTML, CSS e JavaScript
-  - React (componentes, hooks, SPA)
-- **Backend**
-  - Python (Flask/Django)
-  - Criação de APIs RESTful
-- **Banco de Dados**
-  - PostgreSQL / MongoDB
-  - Consultas SQL básicas
-- **Versionamento**
-  - Git (commits, branches, merge)
-  - GitHub (repositórios, pull requests, GitHub Pages)
-- **Deploy**
-  - Heroku / Vercel
-  - Documentação com README e Markdown
-
----
-
-## 🎯 Objetivos e Resultados Esperados
-
-Após a conclusão da trilha, os estudantes estarão aptos a:
-
-- Construir aplicações **Full Stack** completas (frontend + backend + banco de dados)  
-- Versionar e documentar projetos no **GitHub**  
-- Publicar aplicações online em plataformas de deploy gratuitas  
-- Criar um portfólio sólido para entrevistas técnicas  
-- Responder perguntas comuns de entrevistas para desenvolvedores júnior  
-
----
-
-<!--START_SECTION:footer-->
-<br />
-<br />
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
-<!--END_SECTION:footer-->
+✨ **Dica**: Use este portfólio como inspiração para criar seus próprios prompts e expandir suas interações com o Copilot.
