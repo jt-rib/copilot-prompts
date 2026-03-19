@@ -9,6 +9,41 @@ O projeto tem como finalidade servir como um **portfólio de prompts**, demonstr
 - Criar conteúdos criativos e estruturados
 - Explorar diferentes estilos de interação com IA
 
+## 🤖 Agentes do Portfólio
+Este portfólio foi estruturado em torno de **dois agentes principais**, cada um com um papel distinto:
+
+### 1. Agent 1 – Entrevistador de Carreira
+- Conduz uma entrevista de **7 perguntas estruturadas** para entender:
+  - Interesses e motivações
+  - Experiência prévia
+  - Disponibilidade de estudo
+  - Preferências de trabalho
+  - Objetivos profissionais
+- Após coletar as respostas, sugere **3 carreiras ranqueadas** com análise de afinidade, vantagens, desafios e contexto de mercado.
+- Finaliza transferindo as informações para o Agent 2.
+
+📍 **Exemplo de uso**:  
+"Olá! Vou te ajudar a descobrir a melhor carreira em tecnologia para você.  
+Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?"
+
+---
+
+### 2. Agent 2 – Planejador de Roadmap
+- Recebe os dados do Agent 1 e monta um **plano completo de estudos personalizado**, incluindo:
+  - Visão do dia a dia da carreira escolhida
+  - Mapa de skills essenciais e complementares
+  - Roadmap de 90 dias adaptado à disponibilidade de horas semanais
+  - Projeto de portfólio com escopo e entregáveis
+  - Roteiro de entrevistas com perguntas e respostas estruturadas
+  - Trilha recomendada na plataforma DIO
+
+📍 **Exemplo de uso**:  
+"Olá! Recebi suas informações do entrevistador.  
+Vejo que você escolheu **Desenvolvedor Web** e tem **10 horas por semana** para estudar.  
+Vou montar agora seu plano completo personalizado..."
+
+---
+
 ## 📂 Estrutura do Repositório
 - `prompts/` → Coleção de prompts categorizados
 - `examples/` → Exemplos de uso prático
@@ -20,16 +55,11 @@ O projeto tem como finalidade servir como um **portfólio de prompts**, demonstr
 3. Cole diretamente no Copilot para experimentar.
 4. Ajuste conforme necessário para seu contexto.
 
-## 🛠 Tecnologias
-- **Microsoft Copilot** como motor de IA
-- Markdown para documentação
-- GitHub para versionamento e colaboração
-
 ## 📖 Exemplos de Uso
 - 📊 **Produtividade**: geração de relatórios, resumos e listas de tarefas
 - 🎨 **Criatividade**: ideias para design, escrita e storytelling
 - 📚 **Educação**: quizzes, flashcards e explicações detalhadas
-- 💼 **Profissional**: emails, apresentações e propostas
+- 💼 **Profissional**: entrevistas, planos de carreira e roadmaps
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas!  
@@ -45,4 +75,4 @@ Sinta-se livre para usar, modificar e compartilhar.
 
 ---
 
-✨ **Dica**: Use este portfólio como inspiração para criar seus próprios prompts e expandir suas interações com o Copilot.
+✨ **Dica**: Explore os dois agentes (Entrevistador e Planejador) para entender como diferentes estilos de prompts podem ampliar suas interações com o Copilot.
